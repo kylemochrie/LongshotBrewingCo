@@ -1,0 +1,12 @@
+body {
+    width: 100%;
+}
+
+.bar {
+    background-color: #0f0f0f;
+}
+
+.container-fluid {
+    padding: 0;
+}
+
