@@ -3,12 +3,12 @@
 <?php
 include "header.html";
 ?>
-
 <body>
 <div class="container-fluid">
-    <div class="bar"><p>SOME STUFF GOES HERE</p></div>
-    <div id="logo"><h1>Longshot Brewing</h1></div>
-    <nav>
+
+        <img class="center-block" src="/img/longshot-logo.png" alt="Longshot Brewing Logo">
+        
+        <nav>
         <ul class="nav nav-tabs nav-justified">
             <li role="presentation"><a href="about.php">About Us</a></li>
             <li role="presentation"><a href="beers.php">Beers</a></li>
