@@ -7,7 +7,7 @@ include "header.html";
 <body>
 <div class="container-fluid">
     <nav>
-        <ul class="nav nav-tabs">
+        <ul class="nav nav-tabs nav-justified">
             <li role="presentation"><a href="about.php">About Us</a></li>
             <li role="presentation"><a href="beers.php">Beers</a></li>
             <li role="presentation"><a href="menu.php">Menu</a></li>
