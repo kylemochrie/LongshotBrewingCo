@@ -1,0 +1,19 @@
+body {
+    width: 100%;
+}
+
+.bar {
+    background-color: #0f0f0f;
+}
+
+.container-fluid {
+    padding: 0;
+}
+
+.nav {
+    font-size: 18px;
+}
+
+.container-fluid {
+    background-color: #0099FF;
+}
