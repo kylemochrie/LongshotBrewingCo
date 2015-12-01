@@ -1,5 +1,6 @@
 body {
     width: 100%;
+    height: auto;
 }
 
 .bar {
@@ -10,16 +11,32 @@ body {
     padding: 0;
 }
 
+#logo {
+    padding: 5%;
+}
+
 .nav {
     font-size: 18px;
+    margin-bottom: 5%;
+    /*border-top: 1px solid black;*/
+    /*border-bottom: 1px solid black;*/
 }
 
 .container-fluid {
     background-color: #0099FF;
+    /*border-top: 1px solid black;*/
+    /*border-bottom: 1px solid black;*/
 }
+
+.nav-tabs.nav-justified > li > a {
+    border-bottom: none;
+    border-radius: 0;
+}
+
 
 li > a {
     color: black;
+    border-bottom: 1px solid black;
 }
 
 li > a:hover {
