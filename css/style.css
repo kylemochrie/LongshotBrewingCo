@@ -17,3 +17,11 @@ body {
 .container-fluid {
     background-color: #0099FF;
 }
+
+li > a {
+    color: black;
+}
+
+li > a:hover {
+    color: black;
+}
