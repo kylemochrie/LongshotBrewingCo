@@ -6,7 +6,7 @@ include "header.html";
 <body>
 <div class="container-fluid">
 
-        <img class="center-block" src="img/longshot-logo.png" alt="Longshot Brewing Logo">
+    <img id="logo" class="center-block" src="img/longshot-logo.png" alt="Longshot Brewing Logo">
         
         <nav>
         <ul class="nav nav-tabs nav-justified">
