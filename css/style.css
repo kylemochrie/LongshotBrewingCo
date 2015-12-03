@@ -38,8 +38,17 @@ body {
 li > a {
     color: black;
     border-bottom: 1px solid black;
+    text-transform: uppercase;
+    font-family: 'Oswald', sans-serif;
+    background-color: #0099FF;
 }
 
 li > a:hover {
     color: black;
+}
+
+.nav li {
+    border-bottom: 3px solid black;
+    border-top: 3px solid black;
+    background-color: #DADDE0;
 }
