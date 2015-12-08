@@ -16,13 +16,8 @@ body {
 }
 
 #jumbo {
-    background: #2b542c url("../img/restaurant-cropped.jpg") center center;
-    /*background-color: */
+    background: #0099FF url("../img/restaurant-cropped.jpg") center center;
 }
-
-/*#slideshow-container {*/
-/*height: 5%;*/
-/*}*/
 
 .carousel-inner {
     width: 100%;
