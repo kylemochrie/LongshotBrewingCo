@@ -15,6 +15,13 @@ body {
     padding: 5%;
 }
 
+#jumbo {
+    width: 100%;
+    height: auto;
+    background: #2b542c url("../img/restaurant-cropped.jpg") center center;
+    /*background-color: */
+}
+
 .nav {
     font-size: 18px;
     margin-bottom: 5%;

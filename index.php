@@ -10,8 +10,9 @@ include "header.html";
     <a href="#"><img src="img/ig-logo.png" alt="Instagram Logo"></a>
     <a href="#"><img src="img/twitter-logo.png" alt="twitter logo"></a>
 </div>
-    <img id="logo" class="center-block" src="img/longshot-logo.png" alt="Longshot Brewing Logo">
-        
+    <div id="jumbo">
+        <img id="logo" class="center-block" src="img/longshot-logo.png" alt="Longshot Brewing Logo">
+    </div>
         <nav>
         <ul class="nav nav-tabs nav-justified">
             <li role="presentation"><a href="about.php">About Us</a></li>
