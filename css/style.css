@@ -1,6 +1,7 @@
 body {
     width: 100%;
     height: auto;
+    margin-bottom: 0;
 }
 
 .bar {
@@ -107,4 +108,10 @@ li > a:hover {
 #beer {
     font-size: 1.1em;
     font-style: italic;
+}
+
+footer {
+    background-color: black;
+    padding: 0.01% 0;
+    bottom: 0;
 }
