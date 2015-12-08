@@ -5,8 +5,11 @@ include "header.html";
 ?>
 <body>
 <div class="container-fluid">
-<div id = "top"><img src="img/fb-logo.png" alt="Facebook Logo"><img src="img/ig-logo.png" alt="Instagram Logo">
-    <img src="img/twitter-logo.png" alt="twitter logo"></div>
+<div id ="top">
+    <a href="#"><img src="img/fb-logo.png" alt="Facebook Logo"></a>
+    <a href="#"><img src="img/ig-logo.png" alt="Instagram Logo"></a>
+    <a href="#"><img src="img/twitter-logo.png" alt="twitter logo"></a>
+</div>
     <img id="logo" class="center-block" src="img/longshot-logo.png" alt="Longshot Brewing Logo">
         
         <nav>
