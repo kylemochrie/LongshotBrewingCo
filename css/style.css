@@ -108,3 +108,8 @@ li > a:hover {
     font-family: 'Oswald', sans-serif;
     letter-spacing: .02em;
 }
+
+#beer {
+    font-size: 1.1em;
+    font-style: italic;
+}
