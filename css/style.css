@@ -20,6 +20,10 @@ body {
     /*background-color: */
 }
 
+#slideshow-container {
+    height: 5%;
+}
+
 .nav {
     font-size: 18px;
     margin-bottom: 5%;

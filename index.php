@@ -24,8 +24,11 @@ include "header.html";
             <li role="presentation"><a href="contact.php">Contact Us</a></li>
         </ul>
     </nav>
-    <div class="row">
-
+    <div class="row"></div>
+    <div class="slideshow-container">
+        <?php
+        include "car.html";
+        ?>
     </div>
 </div>
 
