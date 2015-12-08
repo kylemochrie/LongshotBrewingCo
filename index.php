@@ -40,6 +40,11 @@ include "header.html";
         include "car.html";
         ?>
     </div>
+
+    <div id="intro">
+        <p>Enjoy the delicious food and beer offered at Longshot Brewery Company! Open to all ages.
+            We bring together music, sports, food, and of course – beer. </p>
+    </div>
 </div>
 
 </body>
