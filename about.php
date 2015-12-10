@@ -8,10 +8,16 @@
     <div class="row" id="intro">
         <h1>About Us</h1>
 
-        <p>For the first 35 years of his life, Jim Koch's family history and his future career lay in the attic of his
-            parent's house.Jim's father Charles Koch, a fifth generation brewer, had left the business but kept the old
-            family beer archives upstairs in an old trunk. The recipes hadn't been used since the Louis Koch brewery
-            closed during Prohibition and when American tastes went away from full flavored beers.
+        <p>It all started on a farm in Kansas. After the great drought of 1933, Richard Hanson sold the family farm and
+            moved east to Rochester in upstate, NY. After struggling for work he accepted an apprenticeship from his
+            uncle, Michael Hanson. Through his apprenticeship Richard learned everything he had to know about the
+            brewing
+            process and discovered a new passion. After Michael passed away of old age he left the brewery to Richard
+            who
+            then proceeded to expand distribution along the east coast and made the brewery more prosperous than his
+            uncle
+            ever imagined. Today Longshot Brewery has changed a lot since its inception, but the same family-owned touch
+            still remains.
         </p>
     </div>
 
