@@ -2,9 +2,8 @@
 <html lang="en">
 <?php include "header.html"; ?>
   <body>
-    <div class="container-fluid">
-        <?php include "nav.html"; ?>
-        <div class="row"></div>
+  <?php include "nav.html"; ?>
+  <div class="container">
     
         <div>
             <h1>Our Menu</h1>
@@ -108,9 +107,8 @@
                 <li>Berry Crumble</li>
               </ul>
             </div>
-            
         </div>
-    </div>
-    <?php include "footer.html"; ?>
+  </div>
+  <?php include "footer.html"; ?>
   </body>
 </html>
