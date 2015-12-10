@@ -30,7 +30,7 @@
                 <li>Roasted Vegetables</li>
                 <li>Coleslaw</li>
                 <li>Fruit Salad</li>
-                <li>Creamy Mac & Cheese</li>
+                <li>Creamy Mac &amp; Cheese</li>
                 <li>Gruyere, Prosciutto, Green Onion Scones</li>
               </ul>
             </div>
