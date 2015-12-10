@@ -17,7 +17,7 @@
 
     <div class="row" id="intro">
         <p>Enjoy the delicious food and beer offered at Longshot Brewery Company! Open to all ages.
-            We bring together music, sports, food, and of course – beer. </p>
+            We bring together music, sports, food, and of course – <em>beer</em>. </p>
     </div>
 
 </div>

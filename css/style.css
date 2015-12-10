@@ -108,6 +108,10 @@ li > a:hover {
     /*box-sizing: border-box;*/
 }
 
+form {
+    padding: 3em;
+}
+
 #intro p {
     display: block;
     word-spacing: .10em;
@@ -115,9 +119,16 @@ li > a:hover {
     font-weight: lighter;
 }
 
-#intro h1 {
+h1 {
     font-weight: bold;
     font-size: 4em;
+    font-family: 'Oswald', sans-serif;
+    letter-spacing: .02em;
+}
+
+h2 {
+    font-weight: bold;
+    font-size: 3em;
     font-family: 'Oswald', sans-serif;
     letter-spacing: .02em;
 }
@@ -129,6 +140,8 @@ em {
 
 footer {
     background-color: black;
-    padding: 0.01% 0;
-    bottom: 0;
+    margin-bottom: 0;
+    position: absolute;
+    display: block;
+    width: 100%;
 }

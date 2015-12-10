@@ -11,7 +11,7 @@
             Cost is $7 per person.  Contact tours@longshotbrewery.com to arrange for a private group tour.
         </p>
     </div>
-    <?php include "footer.html"; ?>
   </div>
+  <?php include "footer.html"; ?>
 </body>
 </html>
