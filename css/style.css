@@ -145,3 +145,17 @@ footer {
     display: block;
     width: 100%;
 }
+
+@media (max-width: 850px) {
+    .nav li {
+        border: 1px solid white;
+        border-radius: 5px;
+        padding: 0;
+        background-color: #000;
+        margin: 0;
+    }
+
+    .nav li a {
+        margin: 0;
+    }
+}

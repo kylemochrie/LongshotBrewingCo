@@ -4,12 +4,10 @@
   <body>
   <?php include "nav.html"; ?>
   <div class="container-fluid">
-
-
+      <div class="row">
             <h1>Our Menu</h1>
-            <div>
-                <div class="row">
-              <h2>Appetizers</h2>
+
+          <h2>Appetizers</h2>
               <ul>
                 <li>Onion Rings</li>
                 <li>Mozzarella Sticks</li>
@@ -108,7 +106,6 @@
                 <li>Berry Crumble</li>
               </ul>
             </div>
-        </div>
   </div>
   <?php include "footer.html"; ?>
   </body>

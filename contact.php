@@ -13,11 +13,11 @@
 
                 <div class="form-group">
                     <label for="name">Name:</label>
-                    <input type="text" class="form-control" id="name" required>
+                    <input type="text" class="form-control" id="name" placeholder="Name" required>
                 </div>
                 <div class="form-group">
                     <label for="email">Email address:</label>
-                    <input type="email" class="form-control" id="email" required>
+                    <input type="email" class="form-control" id="email" placeholder="Email" required>
                 </div>
                 <div class="form-group">
                     <label for="comment">Comments:</label>
