@@ -4,10 +4,12 @@
   <body>
   <?php include "nav.html"; ?>
   <div class="container-fluid">
-      <div class="row">
-            <h1>Our Menu</h1>
+      <div class="row" id="intro">
+      <h1>Our Menu</h1>
+      </div>
 
-          <h2>Appetizers</h2>
+      <div class="row" id="intro">
+          <div class="col-xs-6 col-md-6"><h2>Appetizers</h2>
               <ul>
                 <li>Onion Rings</li>
                 <li>Mozzarella Sticks</li>
@@ -18,7 +20,8 @@
               </ul>
             </div>
 
-          <div class="row">
+
+          <div class="col-xs-6 col-md-6">
               <h2>Sides</h2>
               <ul>
                 <li>Fries</li>
@@ -31,9 +34,12 @@
                 <li>Creamy Mac &amp; Cheese</li>
                 <li>Gruyere, Prosciutto, Green Onion Scones</li>
               </ul>
-            </div>
+          </div>
+      </div>
 
-          <div class="row">
+
+          <div class="row" id="intro">
+              <div class="col-xs-6 col-md-6">
               <h2>Soups</h2>
               <ul>
                 <li>French Onion</li>
@@ -41,9 +47,9 @@
                 <li>Seven Vegetable Minestrone</li>
                 <li>Chicken Tortilla</li>
               </ul>
-            </div>
+              </div>
 
-          <div class="row">
+              <div class="col-xs-6 col-md-6">
               <h2>Salads</h2>
               <ul>
                 <li>Caesar Salad</li>
@@ -52,9 +58,11 @@
                 <li>Buffalo Chicken Salad</li>
                 <li>Taco Salad</li>
               </ul>
-            </div>
+              </div>
+          </div>
 
-          <div class="row">
+          <div class="row" id="intro">
+              <div class="col-xs-6 col-md-6">
               <h2>Sandwiches</h2>
               <ul>
                 <li>Turkey Club</li>
@@ -69,7 +77,7 @@
               </ul>
             </div>
 
-          <div class="row">
+              <div class="col-xs-6 col-md-6">
               <h2>Burgers</h2>
               <ul>
                 <li>Black Angus Burger</li>
@@ -78,8 +86,10 @@
                 <li>Turkey Burger</li>
               </ul>
             </div>
+          </div>
 
-          <div class="row">
+          <div class="row" id="intro">
+              <div class="col-xs-6 col-md-6">
               <h2>Entrees</h2>
               <ul>
                 <li>Mushroom Filled Pork Tenderloin</li>
@@ -94,7 +104,7 @@
               </ul>
             </div>
 
-          <div class="row">
+              <div class="col-xs-6 col-md-6">
               <h2>Desserts</h2>
               <ul>
                 <li>Chocolate Mousse Layer Cake</li>
@@ -106,6 +116,7 @@
                 <li>Berry Crumble</li>
               </ul>
             </div>
+          </div>
   </div>
   <?php include "footer.html"; ?>
   </body>
