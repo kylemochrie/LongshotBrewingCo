@@ -4,7 +4,7 @@
 <body>
   <?php include "nav.html"; ?>
   <div class="container-fluid">
-    <div class="row">
+    <div class="row" id="intro">
       <h1>Brewery Tours</h1>
         <p>Learn about the brewing process and see our signature beers come together.
             Guided tours are offered Monday through Friday, 12pm – 6pm, last about an hour and are followed by a sampling of some of our signature flavors.
