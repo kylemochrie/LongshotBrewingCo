@@ -5,9 +5,8 @@
   <?php include "nav.html"; ?>
   <div class="container-fluid">
     <div class="row" id="intro">
-      <h1>Brewery Tours</h1>
-
       <div class="col-md-6">
+        <h1>Brewery Tours</h1>
         <p>Learn about the brewing process and see our signature beers come together.
           Guided tours are offered every hour on the hour Monday through Friday, between 12pm – 5pm, last about an hour
           and are followed by a sampling of some of our signature flavors. Cost is $7 per person. Contact us at
@@ -15,7 +14,7 @@
         </p>
       </div>
       <div class="col-md-6">
-        <img class="img-responsive" src="img/pint-pour.jpg" alt="Pouring a Pint">
+        <img class="img-rounded img-responsive" src="img/pint-pour.jpg" alt="Pouring a Pint">
       </div>
     </div>
   </div>

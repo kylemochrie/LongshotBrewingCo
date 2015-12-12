@@ -6,7 +6,7 @@
 <div class="container-fluid">
 
     <div class="row" id="intro">
-        <h1>Events</h1>
+        <h1>Shop</h1>
 
         <div class="row">
 
