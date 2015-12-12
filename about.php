@@ -25,7 +25,7 @@
         </p>
         </div>
         <div class="col-md-6">
-            <img class="img-rounded img-responsive" src="img/old-woman-farm.jpg" alt="Old woman on farm">
+            <img class="img-rounded img-responsive" src="img/merch/old-woman-farm.jpg" alt="Old woman on farm">
         </div>
     </div>
 

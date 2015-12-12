@@ -5,10 +5,18 @@
 <?php include "nav.html"; ?>
 <div class="container-fluid">
 
-    <div class="row" id="intro">
+    <div class="row">
         <h1>Our Beers</h1>
 
-        <p>Beer and descriptions here.</p>
+        <div class="col-md-3"></div>
+        <div class="col-md-3"></div>
+        <div class="col-md-3"></div>
+    </div>
+
+    <div class="row">
+        <div class="col-md-3"></div>
+        <div class="col-md-3"></div>
+        <div class="col-md-3"></div>
     </div>
 
 </div>

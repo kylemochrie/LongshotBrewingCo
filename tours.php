@@ -8,7 +8,8 @@
       <div class="col-md-6">
         <h1>Brewery Tours</h1>
         <p>Learn about the brewing process and see our signature beers come together.
-          Guided tours are offered every hour on the hour Monday through Friday, between 12pm – 5pm, last about an hour
+          Guided tours are offered every hour on the hour, Monday through Friday, between 12pm – 5pm. They last about an
+          hour
           and are followed by a sampling of some of our signature flavors. Cost is $7 per person. Contact us at
           <a href="mailto:tours@longshotbrewery.com">tours@longshotbrewery.com</a> to arrange for a private group tour.
         </p>
