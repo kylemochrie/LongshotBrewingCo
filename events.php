@@ -7,16 +7,26 @@
 
     <div class="row" id="intro">
         <h1>Events</h1>
-
-        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. A autem consequuntur iusto odit praesentium
-            quo voluptas. Est harum modi officiis vero! Accusamus at enim minus nisi recusandae tempora voluptatibus
-            voluptatum?Assumenda iusto labore optio ut! Debitis dolor maiores, obcaecati quod reprehenderit
-            tenetur voluptates? Ab deserunt dignissimos distinctio eos facilis laboriosam magnam officia! Amet
-            blanditiis
-            excepturi, explicabo sequi sunt tenetur voluptas. Accusamus amet, aspernatur atque autem corporis culpa
-            dignissimos dolor dolore earum ex expedita explicabo in incidunt ipsam laudantium minima nemo nihil nisi
-            optio quas quasi reiciendis rem repellat tempore vel.
-        </p>
+        
+        <div>
+            <img src = "" alt = "Boo and Brew Bash Event Poster" title = "Boo and Brew Bash"/>
+            <div>
+                <h2>Boo &amp; Brew Bash</h2>
+                <p>Saturday, October 24th, 2015</p>
+                <p>Enjoy music and dancing at a celebration of Halloween and the release of our seasonal favorite: pumpkin beer.
+                    There will be giveaways, a costume contest, and a contest for a poster design featuring pumpkin beer.
+                </p>
+            </div>
+        </div>
+        <div>
+            <img src = "" alt = "Pint for a Pint Event Poster" title = "A Pint for a Pint Blood Drive"/>
+            <div>
+                <h2>A Pint for a Pint</h2>
+                <p>November 6-8, 2015</p>
+                <p>Show up at any nearby American Red Cross blood drive to donate blood and you will receive a voucher for a free pint of beer.
+                </p>
+            </div>
+        </div>
     </div>
 
 </div>
