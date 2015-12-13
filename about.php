@@ -14,7 +14,7 @@
                 sold the
                 family farm and moved east to Rochester in upstate, NY. After struggling for work he became an
                 apprentice to his
-            uncle, Michael Hanson. Through his apprenticeship Richard learned everything he had to know about the
+                uncle, Michael Hanson. Through his apprenticeship Richard learned everything he had to know about the
                 brewing process and discovered a new passion. Years passed along with Verna and Michael, who left the
                 brewery in
                 Richard's capable hands. Richard then proceeded to expand distribution along the east coast and made the
@@ -22,7 +22,7 @@
                 more prosperous than his uncle ever imagined. Today Longshot Brewery has changed a lot since its
                 inception, but
                 the same family-owned touch still remains.
-        </p>
+            </p>
         </div>
         <div class="col-md-6">
             <img class="img-rounded img-responsive" src="img/merch/old-woman-farm.jpg" alt="Old woman on farm">

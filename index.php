@@ -16,9 +16,7 @@
     </div>
     <div class="slideshow-container row"><?php include "car.html"; ?></div>
 
-    <div class="row" id="intro">
-        <!--        <p>Longshot brewing co. </p>-->
-    </div>
+    <div class="row" id="intro"></div>
 
 </div>
 <?php include "footer.html"; ?>
