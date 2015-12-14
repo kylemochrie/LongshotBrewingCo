@@ -101,12 +101,12 @@ li > a:hover {
     line-height: 1.7;
 }
 
-#intro ul {
+#hours {
     text-align: center;
     list-style: none;
 }
 
-#intro h5 {
+#hours-top {
     text-align: center;
 }
 
