@@ -17,8 +17,8 @@
     <div class="slideshow-container row"><?php include "car.html"; ?></div>
 
     <div class="row" id="intro">
-        <h5><strong>Hours</strong></h5>
-        <ul>
+        <h5><strong id="hours-title">Hours</strong></h5>
+        <ul id="hours">
             <li>Monday - Thursday: 1:00pm - 11:00pm</li>
             <li>Friday - Saturday: 2:00pm - 1:00am</li>
             <li>Sunday: 3:00pm - 11:00pm</li>
